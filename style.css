@@ -28,10 +28,10 @@ body{
 
  #flex-container{
     display: flex;
-    justify-content: center;
     justify-content: space-around;
     align-items:center ;
     flex-direction: row-reverse;
     max-width: 1200;
+    
     
  }
